@@ -1,0 +1,344 @@
+{
+  "site": {
+    "name": "Gopar Records",
+    "email": "hola@goparrecords.com",
+    "phone": "+34 910 123 456",
+    "address": "Calle Luchana 18, Madrid",
+    "web3formsAccessKey": "YOUR_WEB3FORMS_ACCESS_KEY"
+  },
+  "nav": [
+    { "id": "estudio", "label": "Estudio" },
+    { "id": "portfolio", "label": "Portfolio", "section": "portfolio" },
+    { "id": "formate", "label": "Fórmate", "section": "training" },
+    { "id": "servicios", "label": "Servicios", "section": "services" },
+    { "id": "equipo", "label": "Equipo", "section": "team" },
+    { "id": "contacto", "label": "Contacto" }
+  ],
+  "hero": {
+    "image": "images/hero.jpg",
+    "eyebrow": "Est. 2009 · Madrid",
+    "title": "Donde el sonido",
+    "titleAccent": "encuentra su forma.",
+    "body": "Gopar Records es un sello independiente y estudio de producción con sede en Madrid. Llevamos más de una década construyendo carreras, moldeando sonidos y creando música que trasciende géneros y fronteras.",
+    "cta": "Saber más",
+    "ctaTarget": "portfolio",
+    "scrollLabel": "Scroll"
+  },
+  "portfolio": {
+    "eyebrow": "Nuestro trabajo",
+    "title": "Portfolio",
+    "intro": "Selección de proyectos recientes producidos en nuestro estudio.",
+    "projects": [
+      {
+        "genre": "R&B / Soul",
+        "title": "Nocturno",
+        "artist": "Luna Verde",
+        "spotify": {
+          "title": "Cut To The Feeling",
+          "artist": "Carly Rae Jepsen",
+          "cover": "images/covers/nocturno.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Trap urbano",
+        "title": "Corriente",
+        "artist": "Río Negro",
+        "spotify": {
+          "title": "Never Gonna Give You Up",
+          "artist": "Rick Astley",
+          "cover": "images/covers/corriente.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Pop latino",
+        "title": "Amanecer",
+        "artist": "Salma C.",
+        "spotify": {
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "cover": "images/covers/amanecer.svg",
+          "url": ""
+        }
+      },
+      {
+        "genre": "Indie / Alternativo",
+        "title": "Deriva",
+        "artist": "Óscar Méndez",
+        "spotify": {
+          "title": "Luz de enero",
+          "artist": "Óscar Méndez",
+          "cover": "images/covers/deriva.svg",
+          "url": ""
+        }
+      }
+    ]
+  },
+  "training": {
+    "eyebrow": "Testimonios",
+    "title": "Fórmate",
+    "titleAccent": "con nosotros.",
+    "intro": "Clases de guitarra y producción musical impartidas por profesionales con años de experiencia en la industria.",
+    "empty": "Todavía no hay reseñas de este curso.",
+    "courses": [
+      { "id": "guitarra-principiante", "label": "Guitarra — Principiante" },
+      { "id": "guitarra-intermedio", "label": "Guitarra — Intermedio" },
+      { "id": "guitarra-avanzado", "label": "Guitarra — Avanzado" },
+      { "id": "produccion-desde-cero", "label": "Producción musical — Desde cero" },
+      { "id": "produccion-beatmaking", "label": "Producción musical — Beatmaking" },
+      { "id": "mezcla-mastering", "label": "Mezcla y mastering" }
+    ],
+    "testimonials": [
+      {
+        "quote": "“Empecé sin saber leer una partitura y en seis meses ya estaba tocando canciones que creía imposibles. Los profesores tienen una paciencia y un método increíbles.”",
+        "name": "Alejandro M.",
+        "courseId": "guitarra-intermedio",
+        "stars": 5
+      },
+      {
+        "quote": "“El curso de producción me cambió la vida. Aprendí a usar Ableton, a construir beats y a entender la mezcla de una forma que ningún tutorial de YouTube me había enseñado.”",
+        "name": "Sofía R.",
+        "courseId": "produccion-desde-cero",
+        "stars": 5
+      },
+      {
+        "quote": "“Llevaba años estancado en el mismo nivel. Aquí encontré el enfoque técnico y musical que necesitaba para dar el salto. 100% recomendado.”",
+        "name": "Daniel F.",
+        "courseId": "guitarra-avanzado",
+        "stars": 5
+      },
+      {
+        "quote": "“En tres meses tenía mi primer EP terminado y masterizado. El equipo de Gopar no solo enseña técnica, también te ayuda a desarrollar tu propio sonido.”",
+        "name": "Carla V.",
+        "courseId": "produccion-beatmaking",
+        "stars": 5
+      },
+      {
+        "quote": "“En tres meses tenía mi primer EP terminado y masterizado. El equipo de Gopar no solo enseña técnica, también te ayuda a desarrollar tu propio sonido.”",
+        "name": "Carla V.",
+        "courseId": "produccion-beatmaking",
+        "stars": 5
+      },
+      {
+        "quote": "“Clases muy personalizadas, adaptan el temario a lo que quieres aprender. Nunca me sentí perdido ni presionado. El mejor sitio para empezar desde cero.”",
+        "name": "Miguel Á.",
+        "courseId": "guitarra-principiante",
+        "stars": 5
+      },
+      {
+        "quote": "“El módulo de mezcla es brutal. Mía es una ingeniera excepcional y explica cada concepto con claridad. Salí del curso con un oído completamente diferente.”",
+        "name": "Laura P.",
+        "courseId": "mezcla-mastering",
+        "stars": 5
+      }
+    ]
+  },
+  "cta": {
+    "label": "Reserva tu primera clase",
+    "target": "contacto"
+  },
+  "services": {
+    "eyebrow": "Lo que ofrecemos",
+    "title": "Servicios",
+    "items": [
+      {
+        "title": "Producción Musical",
+        "description": "Creación integral de beats, arreglos y producción completa adaptada al estilo de cada artista. Desde el concepto hasta el master final.",
+        "tags": ["Trap", "R&B", "Pop", "Urbano", "Indie"]
+      },
+      {
+        "title": "Grabación Profesional",
+        "description": "Estudio equipado con tecnología de última generación. Captamos el sonido con la fidelidad y el carácter que tu música merece.",
+        "tags": ["Vocal booth", "Live room", "Protools HDX"]
+      },
+      {
+        "title": "Mezcla y Mastering",
+        "description": "Cada proyecto pasa por un proceso meticuloso de mezcla estéreo y mastering certificado para plataformas digitales y vinilo.",
+        "tags": ["Spotify", "Apple Music", "Tidal", "Vinilo"]
+      },
+      {
+        "title": "Formación",
+        "description": "Clases de guitarra y producción musical, del primer acorde a la mezcla final. El temario se adapta a tu nivel y a tus objetivos.",
+        "tags": ["Guitarra", "Producción", "Desde cero"]
+      },
+      {
+        "title": "Beatmaking",
+        "description": "Diseño de ritmos y bases originales para artistas urbanos, pop y electrónica. Del primer loop al beat listo para grabar.",
+        "tags": ["Ableton", "Trap", "Electrónica"]
+      },
+      {
+        "title": "Desarrollo Artístico",
+        "description": "Acompañamiento de carrera: identidad sonora, estrategia de lanzamiento y conexión con sellos, supervisores y agencias.",
+        "tags": ["A&R", "Lanzamientos", "Identidad"]
+      }
+    ]
+  },
+  "team": {
+    "eyebrow": "Las personas detrás del sonido",
+    "title": "El Equipo",
+    "members": [
+      {
+        "role": "Fundador & productor principal",
+        "name": "Carlos Gopar",
+        "bio": "Más de 15 años moldeando el sonido de artistas que hoy encabezan las listas. Referente en producción urbana y R&B en España.",
+        "image": "images/team/carlos.jpg"
+      },
+      {
+        "role": "Ingeniera de sonido",
+        "name": "Mía Reyes",
+        "bio": "Especialista en mezcla y mastering con formación en Abbey Road Studios. Su oído clínico garantiza la calidad en cada entrega.",
+        "image": "images/team/mia.jpg"
+      },
+      {
+        "role": "Productor & beatmaker",
+        "name": "Dani Voss",
+        "bio": "Creador de ritmos que fusionan electrónica europea con raíces latinas. Ha co-producido más de 200 temas en los últimos 5 años.",
+        "image": "images/team/dani.jpg"
+      },
+      {
+        "role": "A&R / Desarrollo artístico",
+        "name": "Lucía Arteaga",
+        "bio": "Conecta talento con oportunidades. Su red abarca sellos, supervisores musicales y agencias de todo el continente.",
+        "image": "images/team/lucia.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Hablemos",
+    "title": "Trabajemos",
+    "titleAccent": "juntos.",
+    "intro": "Si tienes un proyecto musical o quieres conocer cómo trabajamos, escríbenos. Respondemos en menos de 48 horas.",
+    "emailLabel": "Email",
+    "phoneLabel": "Teléfono",
+    "addressLabel": "Dirección",
+    "nameLabel": "Nombre completo",
+    "namePlaceholder": "Tu nombre",
+    "emailFieldLabel": "Email",
+    "emailPlaceholder": "tu@email.com",
+    "serviceLabel": "Servicio de interés",
+    "servicePlaceholder": "Selecciona un servicio",
+    "projectLabel": "Tu proyecto",
+    "projectPlaceholder": "Cuéntanos sobre tu proyecto musical...",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando…",
+    "success": "Mensaje enviado. Te respondemos en menos de 48 horas.",
+    "error": "No se pudo enviar el mensaje. Inténtalo de nuevo en unos minutos.",
+    "missingKey": "El formulario aún no está configurado. Añade la clave de Web3Forms en content.json.",
+    "required": "Este campo es obligatorio.",
+    "invalidEmail": "Introduce un email válido."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  }
+}
