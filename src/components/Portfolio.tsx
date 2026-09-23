@@ -7,13 +7,12 @@ type PortfolioProps = {
 }
 
 function useReducedMotion(): boolean {
-  const [reduced, setReduced] = useState(() =>
-    window.matchMedia('(prefers-reduced-motion: reduce)').matches,
-  )
+  const [reduced, setReduced] = useState(false)
 
   useEffect(() => {
     const media = window.matchMedia('(prefers-reduced-motion: reduce)')
     const onChange = () => setReduced(media.matches)
+    onChange()
     media.addEventListener('change', onChange)
     return () => media.removeEventListener('change', onChange)
   }, [])

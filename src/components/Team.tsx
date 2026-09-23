@@ -15,7 +15,7 @@ export function Team({ team }: TeamProps) {
         <div className="team-grid">
           {team.members.map((member) => (
             <article className="member" key={member.name}>
-              <img src={assetUrl(member.image)} alt="" />
+              <img src={assetUrl(member.image)} alt={member.name} width={900} height={1120} />
               <p className="role">{member.role}</p>
               <h3 className="display member-name">{member.name}</h3>
               <p className="member-bio">{member.bio}</p>

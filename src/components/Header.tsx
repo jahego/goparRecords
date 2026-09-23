@@ -27,9 +27,10 @@ export function Header({ content }: HeaderProps) {
   const [solid, setSolid] = useState(false)
   const [open, setOpen] = useState(false)
   const [active, setActive] = useState(items[0]?.id ?? '')
-  const [theme, setTheme] = useState<Theme>(readTheme)
+  const [theme, setTheme] = useState<Theme>('dark')
 
   useEffect(() => {
+    setTheme(readTheme())
     const media = window.matchMedia('(prefers-color-scheme: light)')
     const onChange = () => {
       if (localStorage.getItem(THEME_KEY)) return

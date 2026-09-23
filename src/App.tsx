@@ -7,18 +7,25 @@ import { Portfolio } from './components/Portfolio'
 import { Services } from './components/Services'
 import { Team } from './components/Team'
 import { Training } from './components/Training'
-import { hasSection, loadContent } from './lib/content'
+import { hasSection, loadContent, readInlineContent } from './lib/content'
 import type { SiteContent } from './types'
 
-export default function App() {
-  const [content, setContent] = useState<SiteContent | null>(null)
+type AppProps = {
+  initialContent?: SiteContent | null
+}
+
+export default function App({ initialContent = null }: AppProps) {
+  const [content, setContent] = useState<SiteContent | null>(
+    () => initialContent ?? readInlineContent(),
+  )
   const [failed, setFailed] = useState(false)
 
   useEffect(() => {
+    if (content) return
     loadContent()
       .then(setContent)
       .catch(() => setFailed(true))
-  }, [])
+  }, [content])
 
   if (!content) {
     return (

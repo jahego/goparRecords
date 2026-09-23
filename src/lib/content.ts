@@ -1,9 +1,22 @@
 import type { SectionKey, SiteContent } from '../types'
 
+export const CONTENT_SCRIPT_ID = 'site-content'
+
 export function assetUrl(path: string): string {
   const base = import.meta.env.BASE_URL
   const normalized = path.replace(/^\//, '')
   return `${base}${normalized}`
+}
+
+export function readInlineContent(): SiteContent | null {
+  if (typeof document === 'undefined') return null
+  const script = document.getElementById(CONTENT_SCRIPT_ID)
+  if (!script?.textContent) return null
+  try {
+    return JSON.parse(script.textContent) as SiteContent
+  } catch {
+    return null
+  }
 }
 
 export async function loadContent(): Promise<SiteContent> {
