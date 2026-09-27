@@ -2,8 +2,8 @@
   "site": {
     "name": "Gopar Records",
     "email": "hola@goparrecords.com",
-    "phone": "+34 910 123 456",
-    "address": "Calle Luchana 18, Madrid",
+    "phone": "no disponible",
+    "address": "Calle Amanay 1, Tuineje, Fuerteventura",
     "web3formsAccessKey": "97793e42-dee3-48a7-85e0-ddd6428ead49"
   },
   "nav": [
@@ -16,10 +16,10 @@
   ],
   "hero": {
     "image": "images/hero.jpg",
-    "eyebrow": "Est. 2009 · Madrid",
+    "eyebrow": "Est. 2020 · Canarias",
     "title": "Donde el sonido",
     "titleAccent": "encuentra su forma.",
-    "body": "Gopar Records es un sello independiente y estudio de producción con sede en Madrid. Llevamos más de una década construyendo carreras, moldeando sonidos y creando música que trasciende géneros y fronteras.",
+    "body": "Gopar Records es un sello independiente y estudio de producción canario. Llevamos más de un lustro construyendo carreras, moldeando sonidos y creando música que trasciende géneros y fronteras.",
     "cta": "Saber más",
     "ctaTarget": "portfolio",
     "scrollLabel": "Scroll"
@@ -30,157 +30,157 @@
     "intro": "Selección de proyectos recientes producidos en nuestro estudio.",
     "projects": [
       {
-        "genre": "R&B / Soul",
-        "title": "Nocturno",
-        "artist": "Luna Verde",
-        "spotify": {
-          "title": "Cut To The Feeling",
-          "artist": "Carly Rae Jepsen",
+        "genre": "Cantautor",
+        "title": "Monta y Pedalea",
+        "artist": "Manu Echeva",
+        "spotify": {https://open.spotify.com/intl-es/track/5Ko4SWVpugMYW2TdFBiixO?si=9a3b3c307ced459c
+          "title": "Monta y pedalea",
+          "artist": "Manu Echeva",
           "cover": "images/covers/nocturno.svg",
           "url": ""
         }
       },
       {
-        "genre": "Trap urbano",
-        "title": "Corriente",
-        "artist": "Río Negro",
-        "spotify": {
-          "title": "Never Gonna Give You Up",
-          "artist": "Rick Astley",
+        "genre": "Rock&Roll",
+        "title": "LQA1S2P",
+        "artist": "Manu Echeva",
+        "spotify": {https://open.spotify.com/intl-es/track/6HkEEnBe9Zl0jh600mjbIF?si=4fc7149f8af9405a
+          "title": "LQA1S2P",
+          "artist": "Manu Echeva",
           "cover": "images/covers/corriente.svg",
           "url": ""
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "title": "A la francesa",
+        "artist": "Manu Echeva",
+        "spotify": {https://open.spotify.com/intl-es/track/7eHiuSmycLh7Z032Gg3LaT?si=ea19c4146a8242af
+          "title": "A la francesa",
+          "artist": "Manu Echeva",
           "cover": "images/covers/amanecer.svg",
           "url": ""
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
+        "genre": "Urbano",
+        "title": "X Aquí",
+        "artist": "Javi Gopar",
         "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
+          "title": "X Aquí",
+          "artist": "Javi Gopar",
+          "cover": "images/covers/amanecer.svg",
+          "url": "https://soundcloud.com/javi-hernandez-674412579/x-aqui/s-PAR3vELoVBw?si=29f18efebe194818a644abcae442501a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        }
+      },
+      {
+        "genre": "Rap/Urbano",
+        "title": "Recuerdo",
+        "artist": "Narrativa",
+        "spotify": {
+          "title": "Recuerdo",
+          "artist": "Narrativa",
+          "cover": "images/covers/amanecer.svg",
+          "url": "https://soundcloud.com/javi-hernandez-674412579/narrativa-txtx/s-ilSLU6uLhwl?si=4e384f8316014754bf036ccc48e9794f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        }
+      },
+      {
+        "genre": "Pop/Reggaeton",
+        "title": "Cómo no me voy a enamorar",
+        "artist": "Javi Gopar",
+        "spotify": {
+          "title": "Cómo no me voy a enamorar",
+          "artist": "Javi Gopar",
+          "cover": "images/covers/amanecer.svg",
+          "url": "https://soundcloud.com/javi-hernandez-674412579/como-no-me-voy-a-enamorar/s-VXjMDUPmAPk?si=29f18efebe194818a644abcae442501a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        }
+      },
+      {
+        "genre": "Pop/Experimental",
+        "title": "Alien",
+        "artist": "Marea",
+        "spotify": {
+          "title": "Alien",
+          "artist": "Marea",
+          "cover": "images/covers/amanecer.svg",
+          "url": "https://soundcloud.com/javi-hernandez-674412579/alien-marea-2021/s-gVgJdrYV53I?si=2a471adf687148dfb7460de20a98bda6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        }
+      },
+      {
+        "genre": "Experimental",
+        "title": "Memories",
+        "artist": "Javi Gopar",
+        "spotify": {
+          "title": "Memories",
+          "artist": "Javi Gopar",
+          "cover": "images/covers/amanecer.svg",
+          "url": "https://soundcloud.com/javi-hernandez-674412579/memories-javi?si=6970be97cc204a3e9cfca6e542045ee3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        }
+      },
+      {
+        "genre": "Villancico/Pop",
+        "title": "Contigo esta navidad",
+        "artist": "Manu Echeva",
+        "spotify": {https://open.spotify.com/intl-es/track/21rRAY9V0JhMxJXmn4S4m0?si=3399d2735fc348a4
+          "title": "Contigo esta navidad",
+          "artist": "Manu Echeva",
           "cover": "images/covers/amanecer.svg",
           "url": ""
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
+        "genre": "Pop/Rock",
+        "title": "El ojo del huracán",
+        "artist": "Manu Echeva",
+        "spotify": {https://open.spotify.com/intl-es/track/0UycTRteRWihjdoiU9ocih?si=f7be6ea48c7a4412
+          "title": "El ojo del huracán",
+          "artist": "Manu Echeva",
           "cover": "images/covers/amanecer.svg",
           "url": ""
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "title": "Nada significa un beso",
+        "artist": "Javi Gopar",
+        "spotify": {https://open.spotify.com/intl-es/track/1bU4YCpD0infxXpUtkPjI8?si=d58d2501d6874268
+          "title": "Nada significa un beso",
+          "artist": "Javi Gopar",
           "cover": "images/covers/amanecer.svg",
           "url": ""
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
+        "genre": "Rock/Pop",
+        "title": "Pensando en ti",
+        "artist": "Kontrol Rutinario",
         "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
+          "title": "Pensando en ti",
+          "artist": "Kontrol Rutinario",
           "cover": "images/covers/amanecer.svg",
-          "url": ""
+          "url": "https://soundcloud.com/javi-hernandez-674412579/pensando-en-ti-kontrol-rutinario-1/s-KHvT9EYQfxv?si=c986864f755e4aba8a43d35cae9296e4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
+        "genre": "Pop/Balada",
+        "title": "Las Ganas",
+        "artist": "Luis Luben",
         "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
+          "title": "Las Ganas",
+          "artist": "Luis Luben",
           "cover": "images/covers/amanecer.svg",
-          "url": ""
+          "url": "https://soundcloud.com/javi-hernandez-674412579/las-ganas/s-qIfsICOFdjc?si=c046de456a2f46229220b619c7fe5a29&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
         }
       },
       {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
+        "genre": "Urbano",
+        "title": "X Aquí",
+        "artist": "Javi Gopar",
         "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
-          "cover": "images/covers/amanecer.svg",
-          "url": ""
-        }
-      },
-      {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
-          "cover": "images/covers/amanecer.svg",
-          "url": ""
-        }
-      },
-      {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
-          "cover": "images/covers/amanecer.svg",
-          "url": ""
-        }
-      },
-      {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
-          "cover": "images/covers/amanecer.svg",
-          "url": ""
-        }
-      },
-      {
-        "genre": "Pop latino",
-        "title": "Amanecer",
-        "artist": "Salma C.",
-        "spotify": {
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
-          "cover": "images/covers/amanecer.svg",
-          "url": ""
-        }
-      },
-      {
-        "genre": "Indie / Alternativo",
-        "title": "Deriva",
-        "artist": "Óscar Méndez",
-        "spotify": {
-          "title": "Luz de enero",
-          "artist": "Óscar Méndez",
+          "title": "X Aquí",
+          "artist": "Javi Gopar",
           "cover": "images/covers/deriva.svg",
-          "url": ""
+          "url": "https://soundcloud.com/javi-hernandez-674412579/x-aqui/s-PAR3vELoVBw?si=fcf6c7ee26de4fa19a8196b7669351ed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
         }
       }
     ]
@@ -189,7 +189,7 @@
     "eyebrow": "Testimonios",
     "title": "Fórmate",
     "titleAccent": "con nosotros.",
-    "intro": "Clases de guitarra y producción musical impartidas por profesionales con años de experiencia en la industria.",
+    "intro": "Clases de guitarra y producción musical diseñadas para todos los niveles. Olvídate de memorizar, aquí te explicamos el por qué de las cosas.",
     "empty": "Todavía no hay reseñas de este curso.",
     "courses": [
       { "id": "guitarra-principiante", "label": "Guitarra — Principiante" },
