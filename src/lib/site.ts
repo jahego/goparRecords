@@ -1,5 +1,5 @@
-export const SITE_PATH = '/goparRecords/'
-export const SITE_URL = `https://gafonsoudev.github.io${SITE_PATH}`
+export const SITE_PATH = '/'
+export const SITE_URL = 'https://www.goparmusic.es/'
 
 export const SITE_TITLE = 'Gopar Records | Estudio de grabación y producción musical en Madrid'
 
