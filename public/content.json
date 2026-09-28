@@ -255,17 +255,17 @@
       {
         "title": "Producción Musical",
         "description": "Creación integral de beats, arreglos y producción completa adaptada al estilo de cada artista. Desde el concepto hasta el master final.",
-        "tags": ["Trap", "R&B", "Pop", "Urbano", "Indie"]
+        "tags": ["Pop", "Rap", "R&B", "Urbano", "Indie y más"]
       },
       {
         "title": "Grabación Profesional",
         "description": "Grabación de voces e instrumentos con un enfoque cuidado y profesional. Damos forma a tus ideas desde la primera toma y cuidando cada detalle para conseguir el sonido que buscas y mereces.",
-        "tags": ["Vocal booth", "Live room", "Protools HDX"]
+        "tags": ["Cubase Pro 15", "Protools", "Universal Audio"]
       },
       {
         "title": "Mezcla y Mastering",
         "description": "Cada proyecto pasa por un proceso meticuloso de mezcla y mastering, asegurándonos de que tu canción cumple los estándares de la industria y compita en el mercado actual.",
-        "tags": ["Spotify", "Apple Music", "Tidal", "Vinilo"]
+        "tags": ["Spotify", "Apple Music", "Tidal", "Youtube..."]
       },
       {
         "title": "Formación",
@@ -275,12 +275,12 @@
       {
         "title": "Beatmaking",
         "description": "Puedes elegir instrumentales entre un catálogo ya diseñado o pedirnos que diseñemos ritmos y bases originales para tus canciones.",
-        "tags": ["Ableton", "Trap", "Electrónica"]
+        "tags": ["DAWs", "Trap", "Rap", "Reggaeton"]
       },
       {
-        "title": "Desarrollo Artístico",
-        "description": "Acompañamiento de carrera: identidad sonora, estrategia de lanzamiento y conexión con sellos, supervisores y agencias.",
-        "tags": ["A&R", "Lanzamientos", "Identidad"]
+        "title": "Songwriting",
+        "description": "Escribimos canciones para tí teniendo en cuenta tu identidad sonora. Desde cero o a partir de tus ideas",
+        "tags": ["Revisiones de letras", "Arreglos", "Músicos profesionales"]
       }
     ]
   },
