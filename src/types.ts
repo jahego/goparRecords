@@ -49,7 +49,7 @@ export type SiteContent = {
   site: {
     name: string
     email: string
-    phone: string
+    instagram: string
     address: string
     web3formsAccessKey: string
   }
@@ -99,7 +99,7 @@ export type SiteContent = {
     titleAccent: string
     intro: string
     emailLabel: string
-    phoneLabel: string
+    instagramLabel: string
     addressLabel: string
     nameLabel: string
     namePlaceholder: string

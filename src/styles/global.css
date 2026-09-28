@@ -1004,6 +1004,18 @@ html[data-theme='light'] .track-list-backdrop {
   border-bottom: 1px solid var(--rule-strong);
 }
 
+.instagram {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.instagram svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  flex: none;
+}
+
 .form {
   position: relative;
   display: grid;

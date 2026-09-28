@@ -1,6 +1,15 @@
 import type { SiteContent } from '../types'
 import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL } from './site'
 
+function instagramSameAs(value: string): { sameAs: string[] } | Record<string, never> {
+  const trimmed = value.trim()
+  if (!trimmed) return {}
+  const href = /^https?:\/\//i.test(trimmed)
+    ? trimmed
+    : `https://www.instagram.com/${trimmed.replace(/^@/, '')}`
+  return { sameAs: [href] }
+}
+
 function escapeJson(value: unknown): string {
   return JSON.stringify(value).replace(/</g, '\\u003c')
 }
@@ -18,7 +27,7 @@ export function buildJsonLd(content: SiteContent): Record<string, unknown> {
     name: content.site.name,
     url: SITE_URL,
     email: content.site.email,
-    telephone: content.site.phone,
+    ...instagramSameAs(content.site.instagram),
     foundingDate: '2009',
     image: absoluteUrl(content.hero.image),
     address: {

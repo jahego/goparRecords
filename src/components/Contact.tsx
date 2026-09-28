@@ -9,6 +9,23 @@ type ContactProps = {
 
 const PLACEHOLDER_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY'
 
+function instagramProfile(value: string): { href: string; label: string } | null {
+  const trimmed = value.trim()
+  if (!trimmed) return null
+  if (/^https?:\/\//i.test(trimmed)) {
+    let label = trimmed
+    try {
+      const handle = new URL(trimmed).pathname.split('/').filter(Boolean)[0]
+      if (handle) label = `@${handle}`
+    } catch {
+      label = trimmed
+    }
+    return { href: trimmed, label }
+  }
+  const handle = trimmed.replace(/^@/, '')
+  return { href: `https://www.instagram.com/${handle}`, label: `@${handle}` }
+}
+
 function isConfigured(key: string): boolean {
   const value = key.trim()
   return value.length > 0 && value !== PLACEHOLDER_KEY
@@ -27,6 +44,7 @@ export function Contact({ site, contact, services }: ContactProps) {
   const [errors, setErrors] = useState<Record<string, string>>({})
   const [banner, setBanner] = useState('')
   const [status, setStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle')
+  const instagram = instagramProfile(site.instagram)
 
   function validate(): boolean {
     const next: Record<string, string> = {}
@@ -105,12 +123,21 @@ export function Contact({ site, contact, services }: ContactProps) {
                 <a href={`mailto:${site.email}`}>{site.email}</a>
               </dd>
             </div>
-            <div className="detail">
-              <dt>{contact.phoneLabel}</dt>
-              <dd>
-                <a href={`tel:${site.phone.replace(/\s/g, '')}`}>{site.phone}</a>
-              </dd>
-            </div>
+            {instagram && (
+              <div className="detail">
+                <dt>{contact.instagramLabel}</dt>
+                <dd>
+                  <a className="instagram" href={instagram.href} target="_blank" rel="noopener noreferrer">
+                    <svg viewBox="0 0 24 24" aria-hidden="true">
+                      <rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" strokeWidth="1.6" />
+                      <circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" strokeWidth="1.6" />
+                      <circle cx="17.4" cy="6.6" r="1" fill="currentColor" />
+                    </svg>
+                    {instagram.label}
+                  </a>
+                </dd>
+              </div>
+            )}
             <div className="detail">
               <dt>{contact.addressLabel}</dt>
               <dd>{site.address}</dd>

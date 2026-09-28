@@ -2,7 +2,7 @@
   "site": {
     "name": "Gopar Records",
     "email": "hola@goparrecords.com",
-    "phone": "no disponible",
+    "instagram": "",
     "address": "Calle Amanay 1, Tuineje, Fuerteventura",
     "web3formsAccessKey": "97793e42-dee3-48a7-85e0-ddd6428ead49"
   },
@@ -320,7 +320,7 @@
     "titleAccent": "juntos.",
     "intro": "Si tienes un proyecto musical o quieres conocer cómo trabajamos, escríbenos. Respondemos en menos de 48 horas.",
     "emailLabel": "Email",
-    "phoneLabel": "Teléfono",
+    "instagramLabel": "Instagram",
     "addressLabel": "Dirección",
     "nameLabel": "Nombre completo",
     "namePlaceholder": "Tu nombre",
