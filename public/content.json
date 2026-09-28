@@ -2,7 +2,7 @@
   "site": {
     "name": "Gopar Records",
     "email": "hola@goparrecords.com",
-    "instagram": "",
+    "instagram": "@offsense_records",
     "address": "Calle Amanay 1, Tuineje, Fuerteventura",
     "web3formsAccessKey": "97793e42-dee3-48a7-85e0-ddd6428ead49"
   },
@@ -201,45 +201,45 @@
     ],
     "testimonials": [
       {
-        "quote": "“Empecé sin saber leer una partitura y en seis meses ya estaba tocando canciones que creía imposibles. Los profesores tienen una paciencia y un método increíbles.”",
-        "name": "Alejandro M.",
-        "courseId": "guitarra-intermedio",
-        "stars": 5
-      },
-      {
-        "quote": "“El curso de producción me cambió la vida. Aprendí a usar Ableton, a construir beats y a entender la mezcla de una forma que ningún tutorial de YouTube me había enseñado.”",
-        "name": "Sofía R.",
-        "courseId": "produccion-desde-cero",
-        "stars": 5
-      },
-      {
-        "quote": "“Llevaba años estancado en el mismo nivel. Aquí encontré el enfoque técnico y musical que necesitaba para dar el salto. 100% recomendado.”",
-        "name": "Daniel F.",
-        "courseId": "guitarra-avanzado",
-        "stars": 5
-      },
-      {
-        "quote": "“En tres meses tenía mi primer EP terminado y masterizado. El equipo de Gopar no solo enseña técnica, también te ayuda a desarrollar tu propio sonido.”",
-        "name": "Carla V.",
-        "courseId": "produccion-beatmaking",
-        "stars": 5
-      },
-      {
-        "quote": "“En tres meses tenía mi primer EP terminado y masterizado. El equipo de Gopar no solo enseña técnica, también te ayuda a desarrollar tu propio sonido.”",
-        "name": "Carla V.",
-        "courseId": "produccion-beatmaking",
-        "stars": 5
-      },
-      {
-        "quote": "“Clases muy personalizadas, adaptan el temario a lo que quieres aprender. Nunca me sentí perdido ni presionado. El mejor sitio para empezar desde cero.”",
-        "name": "Miguel Á.",
+        "quote": "“Llevo unas cuantas clases con él y estoy encantada, no sólo por todo lo que me está enseñando sino por la paciencia y tranquilidad que transmite. No sólo es tocar canciones, también estoy aprendiendo teoría musical, así que son clases muy completas. Muy recomendable y profesional.”",
+        "name": "Carolina",
         "courseId": "guitarra-principiante",
         "stars": 5
       },
       {
-        "quote": "“El módulo de mezcla es brutal. Mía es una ingeniera excepcional y explica cada concepto con claridad. Salí del curso con un oído completamente diferente.”",
-        "name": "Laura P.",
-        "courseId": "mezcla-mastering",
+        "quote": "“Muy bueno técnicamente hablando y con el don para enseñar. Ordenado y estructurado. Altamente recomendado.”",
+        "name": "Benjamin",
+        "courseId": "produccion-desde-cero",
+        "stars": 5
+      },
+      {
+        "quote": "“Javi es un gran profesor, puedes preguntarle cualquier cosa relacionada con la música y te responderá con tanto entusiasmo que no lo olvidarás. Es muy apasionado con su arte y explica todo de forma clara. Totalmente recomendable.”",
+        "name": "Prateek",
+        "courseId": "producción-intermedio",
+        "stars": 5
+      },
+      {
+        "quote": "“Cuando empecé las clases con Javi ya había intentado aprender guitarra antes con otros profesores y siempre lo acababa dejando, pero gracias a su forma de enseñar, por fin empecé a avanzar de verdad. Lo que más me gusta de sus clases es que no se trata solo de memorizar acordes o canciones, sino que te explica la teoría musical básica de una manera clara y sencilla, para que realmente entiendas lo que estás tocando. Eso hace toda la diferencia, porque te da una base sólida y después todo empieza a tener más sentido. Tiene mucha paciencia, se adapta al ritmo de cada uno, y hace que aprender sea algo entretenido en vez de frustrante. Así que si estas buscando a alguien que te enseñe guitarra de una forma clara, con fundamentos y sin complicarte la vida, lo recomiendo.”",
+        "name": "Cristina",
+        "courseId": "guitarra-principiante",
+        "stars": 5
+      },
+      {
+        "quote": "“Javier es un profesor excelente que se involucra con sus alumnos y les transmite su pasión por la música. A mí en particular me ha dado clases de musicalidad y iniciación a la guitarra y me ha encantado trabajar con él.”",
+        "name": "Jenifer",
+        "courseId": "guitarra-principiante",
+        "stars": 5
+      },
+      {
+        "quote": "“Javi es uno de los mejores profesores que he conocido en mi vida, hace clases muy didácticas y con un contenido rico en teoría y práctica, no es el típico profesor de guitarra que te enseña a tocar 2 canciones y te deja, Javi te enseña las bases, a entender el porqué de las cosas y de una manera personalizada a las necesidades de cada alumno para su aprendizaje. Es un profesor muy amable, paciente. Realmente uno siente que esta aprendiendo más allá de lo común con el y los resultados en pocos meses han sido muy satisfactorios para mi. 100% recomendado.”",
+        "name": "Guillermo",
+        "courseId": "guitarra-principiante",
+        "stars": 5
+      },
+      {
+        "quote": "“Tuve la suerte de tomar clases con Javier, y lo recomiendo totalmente. Es muy paciente, sabe cómo explicar de forma clara, adaptándose al nivel de cada alumno. Sus clases son dinámicas, y motivadoras, el es un encanto. Aprendí mucho en muy poco tiempo. ¡Un profe excelente!”",
+        "name": "Miriam",
+        "courseId": "guitarra-principiante",
         "stars": 5
       }
     ]
@@ -259,22 +259,22 @@
       },
       {
         "title": "Grabación Profesional",
-        "description": "Estudio equipado con tecnología de última generación. Captamos el sonido con la fidelidad y el carácter que tu música merece.",
+        "description": "Grabación de voces e instrumentos con un enfoque cuidado y profesional. Damos forma a tus ideas desde la primera toma y cuidando cada detalle para conseguir el sonido que buscas y mereces.",
         "tags": ["Vocal booth", "Live room", "Protools HDX"]
       },
       {
         "title": "Mezcla y Mastering",
-        "description": "Cada proyecto pasa por un proceso meticuloso de mezcla estéreo y mastering certificado para plataformas digitales y vinilo.",
+        "description": "Cada proyecto pasa por un proceso meticuloso de mezcla y mastering, asegurándonos de que tu canción cumple los estándares de la industria y compita en el mercado actual.",
         "tags": ["Spotify", "Apple Music", "Tidal", "Vinilo"]
       },
       {
         "title": "Formación",
-        "description": "Clases de guitarra y producción musical, del primer acorde a la mezcla final. El temario se adapta a tu nivel y a tus objetivos.",
+        "description": "Clases de guitarra y producción musical desde la iniciación. Clases privadas y semiprivadas",
         "tags": ["Guitarra", "Producción", "Desde cero"]
       },
       {
         "title": "Beatmaking",
-        "description": "Diseño de ritmos y bases originales para artistas urbanos, pop y electrónica. Del primer loop al beat listo para grabar.",
+        "description": "Puedes elegir instrumentales entre un catálogo ya diseñado o pedirnos que diseñemos ritmos y bases originales para tus canciones.",
         "tags": ["Ableton", "Trap", "Electrónica"]
       },
       {
@@ -290,8 +290,8 @@
     "members": [
       {
         "role": "Fundador & productor principal",
-        "name": "Carlos Gopar",
-        "bio": "Más de 15 años moldeando el sonido de artistas que hoy encabezan las listas. Referente en producción urbana y R&B en España.",
+        "name": "Javier Hernández Gopar",
+        "bio": "20 años en la música y más de 5 años produciendo a artistas de canarias, península e incluso de fuera del país. Compositor, ingeniero de mezcla y mastering y productor musical",
         "image": "images/team/carlos.jpg"
       },
       {
