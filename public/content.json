@@ -295,22 +295,22 @@
         "image": "images/team/javi.jpeg"
       },
       {
-        "role": "Ingeniera de sonido",
-        "name": "Mía Reyes",
-        "bio": "Especialista en mezcla y mastering con formación en Abbey Road Studios. Su oído clínico garantiza la calidad en cada entrega.",
-        "image": "images/team/mia.jpg"
+        "role": "Instrumentista & arreglista",
+        "name": "Adrián García Vidal",
+        "bio": "Arreglos para bandas y solistas. Guitarra, bajo, laúd, timple, trompeta y más",
+        "image": "images/team/mia.jpeg"
       },
       {
         "role": "Productor & beatmaker",
         "name": "Dani Voss",
         "bio": "Creador de ritmos que fusionan electrónica europea con raíces latinas. Ha co-producido más de 200 temas en los últimos 5 años.",
-        "image": "images/team/dani.jpg"
+        "image": "images/team/dani.jpeg"
       },
       {
         "role": "A&R / Desarrollo artístico",
         "name": "Lucía Arteaga",
         "bio": "Conecta talento con oportunidades. Su red abarca sellos, supervisores musicales y agencias de todo el continente.",
-        "image": "images/team/lucia.jpg"
+        "image": "images/team/lucia.jpeg"
       }
     ]
   },
